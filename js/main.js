@@ -92,6 +92,12 @@
     });
   });
 
+  // search feature---
+
+  $("#search_links").change(function(){
+    window.find($("#search_links").val());
+  });
+
 
 
 })(jQuery);

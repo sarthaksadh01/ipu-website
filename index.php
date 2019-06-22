@@ -173,7 +173,8 @@
 
           </li>
 
-          <li> <input class="form-control mr-sm-2" type="search" placeholder="    Search links" aria-label="Search">
+          <li> <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
+              aria-label="Search">
           </li>
 
 
@@ -189,6 +190,10 @@
   <section id="intro" class="clearfix">
     <div class="container d-flex h-100">
       <div style="text-align: center;" class="row justify-content-center align-self-center">
+        <!-- <div class="col-sm-12"> -->
+          <!-- <img style="width: 100%;height:100vh;" src="" alt="" srcset=""> -->
+
+        <!-- </div> -->
 
         <div class="ggsipu-button intro-info">
           <br><br>
