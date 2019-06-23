@@ -43,7 +43,7 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#intro" class="scrollto"><span>GGSIPU</span></a></h1>
+        <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>
         <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
       </div>
 
@@ -173,8 +173,12 @@
 
           </li>
 
-          <li> <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
-              aria-label="Search">
+          <li>
+           <!-- <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
+              aria-label="Search"> -->
+              <div class="autocomplete">
+    <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry" placeholder="Search links">
+  </div>
           </li>
 
 
@@ -239,6 +243,9 @@
 
   <!-- All animation Javascript File -->
   <script src="js/main.js"></script>
+  <script src="./js/search.js"></script>
+
+  
 
 </body>
 
