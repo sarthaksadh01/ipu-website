@@ -115,5 +115,5 @@ function autocomplete(inp, arr) {
   console.log(links);
   console.log(names);
   
-  /*initiate the autocomplete function on the "myInput" element, and pass along the countries array as possible autocomplete values:*/
+  /*initiate the autocomplete, and pass along the links array as possible autocomplete values:*/
   autocomplete(document.getElementById("search_links"), names);

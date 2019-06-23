@@ -174,11 +174,12 @@
           </li>
 
           <li>
-           <!-- <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
+            <!-- <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
               aria-label="Search"> -->
-              <div class="autocomplete">
-    <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry" placeholder="Search links">
-  </div>
+            <div class="autocomplete">
+              <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry"
+                placeholder="Search links">
+            </div>
           </li>
 
 
@@ -195,14 +196,14 @@
     <div class="container d-flex h-100">
       <div style="text-align: center;" class="row justify-content-center align-self-center">
         <!-- <div class="col-sm-12"> -->
-          <!-- <img style="width: 100%;height:100vh;" src="" alt="" srcset=""> -->
+        <!-- <img style="width: 100%;height:100vh;" src="" alt="" srcset=""> -->
 
         <!-- </div> -->
 
         <div class="ggsipu-button intro-info">
           <br><br>
           <div class="text-center ">
-            <a href="#" class="ggsipu-btn btn-lg btn-get-started scrollto">Explore GGSIPU</a>
+            <a href="#achievements" class="ggsipu-btn btn-lg btn-get-started scrollto">Explore GGSIPU</a>
           </div>
 
         </div>
@@ -212,54 +213,195 @@
 
     </div>
   </section>
- <!-- Footer added --------------------------------- -->
-<div class="content">
-</div>
-    <footer id="myFooter">
-        <div class="container">
-            <div class="row">
-                <div class="col-sm-3" style="border-left: 0px">
-                   <img  src="https://i.imgur.com/KtdFwuo.png">
-                </div>
-                <div class="col-sm-3">
-                    <h5>Quick Info</h5>
-                    <ul>
-                            <li><a href="#">NSS</a></li>
-                        <li><a href="#">RTI</a></li>
-                        <li><a href="#">Spoken Tutorial</a></li>
-                        <li><a href="#">NPTEL</a></li>
-                        <li><a href="#"> MOOCS</a></li>
-                        <li><a href="#">e-PG Pathshala</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <h5>Important Links</h5>
-                    <ul style="width: 100%">
-                        <li><a href="#">Student's Welfare</a></li>
-                        <li><a href="#"> Alumni</a></li>
-                        <li><a href="#"> USS Placement Coordinators</a></li>
-                        <li><a href="#"> Jobs / Opportunities</a></li>
-                        <li><a href="#"> Centralized Career Guidance and Placement Cell (CCGPC)</a></li>
-                        <li><a href="#"> UIRC (Library)</a></li>
-                    </ul>
-                </div>
-                <div class="col-sm-3">
-                    <h5>About Us</h5>
-                    <ul>
-                        <li><a href="#">Disclaimer</a></li>
-                        <li><a href="#">Meet The Team</a></li>
-                        <li><a href="#">Feedback</a></li>
-                        <li><a href="#">Site Map</a></li>
-                        <li><a href="#">Contact Us</a></li>
-                    </ul>
-                </div>
-                
+
+  <!----------
+
+Achievement section
+
+------------>
+  <section id="achievements" class="mt-5 ">
+    <div class="container">
+
+      <header class="mt-5 section-header">
+        <h3>Student achievements</h3>
+        <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
+      </header>
+
+      <div class="row">
+
+        <div class="col-md-6 mb-3 col-lg-6 wow bounceInUp" data-wow-duration="1.4s">
+
+          <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="First slide">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Title</h5>
+                    <p>Description</p>
+                  </div>
+              </div>
+              <div class="carousel-item">
+                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Second slide">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Title</h5>
+                    <p>Description</p>
+                  </div>
+              </div>
+              <div class="carousel-item">
+                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Third slide">
+                <div class="carousel-caption d-none d-md-block">
+                    <h5>Title</h5>
+                    <p>Description</p>
+                  </div>
+              </div>
             </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+
         </div>
-        <div class="footer-copyright">
-            <p>© 2016 Copyright Guru Gobind Singh Inderprastha University </p>
+
+
+
+        <div class="col-md-6 col-lg-6 wow bounceInUp" data-wow-duration="1.4s">
+
+          <div class="row">
+
+            <div class="col-md-6 col-lg-6 wow bounceInUp" data-wow-duration="1.4s">
+              <!-- <div class="col-lg-3 col-md-6 wow fadeInUp"> -->
+              <div class="student">
+                <img src="img/team-1.jpg" class="img-fluid" alt="">
+                <div class="student-info">
+                  <div class="student-info-content">
+                    <h4>Title</h4>
+                    <span>Description</span>
+                   
+                  </div>
+                </div>
+              </div>
+              <div class="student">
+                <img src="img/team-1.jpg" class="img-fluid" alt="">
+                <div class="student-info">
+                  <div class="student-info-content">
+                    <h4>Title</h4>
+                    <span>Description</span>
+                  
+                  </div>
+                </div>
+              </div>
+              <!-- </div> -->
+            </div>
+
+            <div class="col-md-6 col-lg-6 wow bounceInUp" data-wow-duration="1.4s">
+              <div class="student">
+                <img src="img/team-1.jpg" class="img-fluid" alt="">
+                <div class="student-info">
+                  <div class="student-info-content">
+                    <h4>Title</h4>
+                    <span>Description</span>
+                 
+                  </div>
+                </div>
+              </div>
+              <div class="student">
+                <img src="img/team-1.jpg" class="img-fluid" alt="">
+                <div class="student-info">
+                  <div class="student-info-content">
+                    <h4>Title</h4>
+                    <span>Description</span>
+                
+                  </div>
+                </div>
+              </div>
+            </div>
+
+          </div>
+
+
+
+
+
+
+
+
         </div>
-    </footer>
+
+      </div>
+
+
+
+
+    </div>
+
+
+
+    </div>
+
+
+  </section>
+
+
+
+  <!-- Footer added --------------------------------- -->
+  <div class="content">
+  </div>
+  <footer id="myFooter">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-3" style="border-left: 0px">
+          <img src="https://i.imgur.com/KtdFwuo.png">
+        </div>
+        <div class="col-sm-3">
+          <h5>Quick Info</h5>
+          <ul>
+            <li><a href="#">NSS</a></li>
+            <li><a href="#">RTI</a></li>
+            <li><a href="#">Spoken Tutorial</a></li>
+            <li><a href="#">NPTEL</a></li>
+            <li><a href="#"> MOOCS</a></li>
+            <li><a href="#">e-PG Pathshala</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-3">
+          <h5>Important Links</h5>
+          <ul style="width: 100%">
+            <li><a href="#">Student's Welfare</a></li>
+            <li><a href="#"> Alumni</a></li>
+            <li><a href="#"> USS Placement Coordinators</a></li>
+            <li><a href="#"> Jobs / Opportunities</a></li>
+            <li><a href="#"> Centralized Career Guidance and Placement Cell (CCGPC)</a></li>
+            <li><a href="#"> UIRC (Library)</a></li>
+          </ul>
+        </div>
+        <div class="col-sm-3">
+          <h5>About Us</h5>
+          <ul>
+            <li><a href="#">Disclaimer</a></li>
+            <li><a href="#">Meet The Team</a></li>
+            <li><a href="#">Feedback</a></li>
+            <li><a href="#">Site Map</a></li>
+            <li><a href="#">Contact Us</a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+    <div class="footer-copyright">
+      <p>© 2016 Copyright Guru Gobind Singh Inderprastha University </p>
+    </div>
+  </footer>
 
 
   <!-- =======================================================
@@ -292,7 +434,7 @@
   <script src="js/main.js"></script>
   <script src="./js/search.js"></script>
 
-  
+
 
 </body>
 
