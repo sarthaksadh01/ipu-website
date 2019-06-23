@@ -110,7 +110,7 @@ function autocomplete(inp, arr) {
   for(var i=0;i<links.length;i++)
   {
     //   if(links[i].hash!="")
-      names.push({"name":links[i].outerText,"link":links[i].href});
+      names.push({"name":links[i].outerText.trim(),"link":links[i].href});
   }
   console.log(links);
   console.log(names);

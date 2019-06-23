@@ -44,7 +44,7 @@ h6 {
 .back-to-top {
   position: fixed;
   display: none;
-  background: #1bb1dc;
+  background: #041E54;
   color: #fff;
   width: 44px;
   height: 44px;
@@ -82,7 +82,7 @@ h6 {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #1bb1dc;
+  border-top: 6px solid #041E54;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -201,7 +201,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #1bb1dc;
+  color: #041E54;
 }
 
 #intro .intro-info .btn-get-started,
@@ -216,7 +216,7 @@ h6 {
   border-radius: 4px;
   transition: 0.5s;
   color: #fff;
-  background: #1bb1dc;
+  background: #041E54;
   color: #fff;
 }
 
@@ -481,13 +481,13 @@ input[type=text] {
 .autocomplete-items div {
   padding: 10px;
   cursor: pointer;
-  background-color: #1AB0DC; 
+  background-color: #041E54; 
   border-bottom: 1px solid #d4d4d4; 
 }
 
 /*when hovering an item:*/
 .autocomplete-items div:hover {
-  background-color: #e9e9e9; 
+  background-color: DodgerBlue; 
 }
 
 /*when navigating through the items using the arrow keys:*/
