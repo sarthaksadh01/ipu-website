@@ -208,7 +208,54 @@
 
     </div>
   </section>
-
+ <!-- Footer added --------------------------------- -->
+<div class="content">
+</div>
+    <footer id="myFooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-3" style="border-left: 0px">
+                   <img  src="https://i.imgur.com/KtdFwuo.png">
+                </div>
+                <div class="col-sm-3">
+                    <h5>Quick Info</h5>
+                    <ul>
+                            <li><a href="#">NSS</a></li>
+                        <li><a href="#">RTI</a></li>
+                        <li><a href="#">Spoken Tutorial</a></li>
+                        <li><a href="#">NPTEL</a></li>
+                        <li><a href="#"> MOOCS</a></li>
+                        <li><a href="#">e-PG Pathshala</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>Important Links</h5>
+                    <ul style="width: 100%">
+                        <li><a href="#">Student's Welfare</a></li>
+                        <li><a href="#"> Alumni</a></li>
+                        <li><a href="#"> USS Placement Coordinators</a></li>
+                        <li><a href="#"> Jobs / Opportunities</a></li>
+                        <li><a href="#"> Centralized Career Guidance and Placement Cell (CCGPC)</a></li>
+                        <li><a href="#"> UIRC (Library)</a></li>
+                    </ul>
+                </div>
+                <div class="col-sm-3">
+                    <h5>About Us</h5>
+                    <ul>
+                        <li><a href="#">Disclaimer</a></li>
+                        <li><a href="#">Meet The Team</a></li>
+                        <li><a href="#">Feedback</a></li>
+                        <li><a href="#">Site Map</a></li>
+                        <li><a href="#">Contact Us</a></li>
+                    </ul>
+                </div>
+                
+            </div>
+        </div>
+        <div class="footer-copyright">
+            <p>© 2016 Copyright Guru Gobind Singh Inderprastha University </p>
+        </div>
+    </footer>
 
 
   <!-- =======================================================
