@@ -213,7 +213,61 @@
 
     </div>
   </section>
+  
+  <!------------------------- Events Section ---------------------------------------------- -->
 
+    <section class='section' id='events'>
+        <header class='event-header'>
+            <h2 id='eventHeading'>EVENTS</h2>
+        </header>
+        <div class="event-body container-fluid">
+            <div class="row event-row">
+                <div class="col-sm-3">
+                    <div class="card shadowed">
+                        <div class='card-body'>
+                            <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card shadowed">
+                        <div class='card-body'>
+                            <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card shadowed">
+                        <div class='card-body'>
+                            <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="card shadowed">
+                        <div class='card-body'>
+                            <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </a>
+                        </div>
+                        <div class="card-footer">
+                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="btn event-btn"> VIEW MORE EVENTS</div>
+        </div>
+    </section>
+<!--------------------------------- Event Section End --------------------- -->
+  
   <!----------
 
 Achievement section
