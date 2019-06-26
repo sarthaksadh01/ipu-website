@@ -203,7 +203,7 @@
         <div class="ggsipu-button intro-info">
           <br><br>
           <div class="text-center ">
-            <a href="#achievements" class="ggsipu-btn btn-lg btn-get-started scrollto">Explore GGSIPU</a>
+            <a href="#admsn" class="ggsipu-btn btn-lg btn-get-started scrollto">Explore GGSIPU</a>
           </div>
 
         </div>
@@ -213,6 +213,45 @@
 
     </div>
   </section>
+
+  <!--------------------------------Admission section------------------------>
+
+
+  <section id="admsn">
+      <div class="container">
+        <header class="section-header">
+          <h3>Admissions 2019</h3>
+        </header>
+
+        <ul id="admsn-list" class="wow fadeInUp">
+          <li>
+            <a  class="title" href="#">Online Counselling Website </a>
+          </li>
+
+          <li>
+            <a  class="title" href="#">On-Line Counselling Notices </a>
+          </li>
+          <li>
+            <a  class="title" href="#">Important notices </a>
+          </li>
+          <li>
+            <a  class="title" href="#">Admission - 2019</a>
+          </li>
+
+          <li>
+            <a  class="title" href="#">A List of Institutes of various Programmes of academic session 2018-19 </a>
+          </li>
+
+          <li>
+            <a  class="title" href="#">Notice regarding admissions to BA LLB & BBA LLB (Code 121, LLB) and LLM (Regular) (Code 112)  </a>
+          </li>
+
+            
+
+        </ul>
+
+      </div>
+    </section><!-- #faq -->
   
   <!------------------------- Events Section ---------------------------------------------- -->
 
