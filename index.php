@@ -217,12 +217,16 @@
   <!------------------------- Events Section ---------------------------------------------- -->
 
     <section class='section' id='events'>
-        <header class='event-header'>
-            <h2 id='eventHeading'>EVENTS</h2>
-        </header>
+        <!-- <header class='event-header'>
+            <h3 id='eventHeading'>EVENTS</h3>
+        </header> -->
+        <header class="m-5 section-header">
+        <h3>Events</h3>
+        
+      </header>
         <div class="event-body container-fluid">
             <div class="row event-row">
-                <div class="col-sm-3">
+                <div class="mb-3 col-lg-3 col-sm-6 wow bounceInUp">
                     <div class="card shadowed">
                         <div class='card-body'>
                             <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
@@ -232,7 +236,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
                     <div class="card shadowed">
                         <div class='card-body'>
                             <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
@@ -242,7 +246,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
                     <div class="card shadowed">
                         <div class='card-body'>
                             <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
@@ -252,7 +256,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-sm-3">
+                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
                     <div class="card shadowed">
                         <div class='card-body'>
                             <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </a>
@@ -263,7 +267,7 @@
                     </div>
                 </div>
             </div>
-            <div class="btn event-btn"> VIEW MORE EVENTS</div>
+            <div class="btn event-btn"> <a style="color:white" href="">VIEW MORE EVENTS</a></div>
         </div>
     </section>
 <!--------------------------------- Event Section End --------------------- -->

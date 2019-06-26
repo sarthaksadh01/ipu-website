@@ -231,10 +231,10 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
+/* .main-nav { */
   /* Drop Down */
   /* Deep Drop Down */
-}
+/* } */
 
 .main-nav,
 .main-nav * {
@@ -707,6 +707,10 @@ body{
 #events{
 /*    background-color:#062454!important;*/
     background-color: transparent;
+}
+
+#events .card:hover{
+  transform: scale(1.1);
 }
 
 .event-header{
