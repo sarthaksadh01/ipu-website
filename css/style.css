@@ -231,10 +231,10 @@ h6 {
 
 /* Desktop Navigation */
 
-.main-nav {
+/* .main-nav { */
   /* Drop Down */
   /* Deep Drop Down */
-}
+/* } */
 
 .main-nav,
 .main-nav * {
@@ -702,11 +702,55 @@ body{
    -webkit-flex: 0 0 auto;
 }
 
+/*----------------------------- Admission Section CSS----------------------------------------*/
+
+#admsn {
+  padding: 60px 0;
+  /* overflow: hidden; */
+}
+
+
+#admsn #admsn-list {
+  padding: 0;
+  list-style: none;
+}
+
+#admsn #admsn-list li {
+  border-bottom: 1px solid #ebebeb;
+}
+
+#admsn #admsn-list a {
+  padding: 22px 0;
+  display: block;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 400;
+  padding-right: 20px;
+}
+
+
+#admsn #admsn-list a.title {
+  color: #000;
+}
+#admsn #admsn-list a.title:hover {
+  color: #1bb1dc;
+}
+
+
+
+
+
 /*----------------------------- Event Section CSS----------------------------------------*/
 
 #events{
 /*    background-color:#062454!important;*/
     background-color: transparent;
+}
+
+#events .card:hover{
+  transform: scale(1.1);
 }
 
 .event-header{
@@ -795,4 +839,7 @@ body{
 }
 
 /*-----------------Event CSS end---------------------------------------------*/
+
+
+
 
