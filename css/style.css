@@ -706,7 +706,7 @@ body{
 
 #admsn {
   padding: 60px 0;
-  /* overflow: hidden; */
+/*   overflow: hidden; */
 }
 
 
@@ -715,15 +715,25 @@ body{
   list-style: none;
 }
 
-#admsn #admsn-list li {
-  border-bottom: 1px solid #ebebeb;
+.admsn-list-item {	
+	border-left: 6px solid #0B2554;
+	border-top: 1px solid #ebebeb;
+	transition: all .3s ease-in-out;
+
+}
+
+ .admsn-list-item:hover  {
+	border-left-width: 33px; 
+	border-left-color: #1bb1dc;
 }
 
 #admsn #admsn-list a {
+  margin-left: 15px;
   padding: 22px 0;
   display: block;
   position: relative;
   font-family: "Montserrat", sans-serif;
+  color: #0B2554 !important;
   font-size: 20px;
   line-height: 1;
   font-weight: 400;
@@ -731,11 +741,12 @@ body{
 }
 
 
+
 #admsn #admsn-list a.title {
   color: #000;
 }
 #admsn #admsn-list a.title:hover {
-  color: #1bb1dc;
+  color: #1bb1dc !important;
 }
 
 
@@ -777,13 +788,23 @@ body{
     display: inline-block; 
     position: relative;
     margin: auto;
+	transition: all .3s ease-in-out;
 }
 
+.card:hover > .card-footer{
+	border-bottom-color: #0a98c0;
+	color: #0a98c0;
+}
+
+.card:hover .card-text{
+	color: #0a98c0;
+}
 
 .card-text{
     color: #0B2554;
     font-family: "Montserrat", sans-serif!important;
     font-size: 1.2em;
+	transition: all .5s ease-in-out;
 }
 
 .card-footer{
@@ -791,6 +812,7 @@ body{
     margin: 0 auto 0 auto;
     border-top: 0.08em #B3AEAE solid;
     border-bottom: solid 7px #041E54;
+	transition: all .5s ease-in-out;
 }
 
 .card-footer-text{
@@ -830,7 +852,7 @@ body{
     margin: 50px auto 0 auto;
     font-size: 13px;
     font-weight: 500;
-    transition: 0.5s;
+    transition: .5s;
 }
 
 .event-btn:hover{
