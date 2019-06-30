@@ -309,6 +309,56 @@
             <div class="btn event-btn"> <a style="color:white" href="">VIEW MORE EVENTS</a></div>
         </div>
     </section>
+
+    <!--==========================
+     University Schools
+    ============================-->
+    <section id="university-schools" class="wow fadeInUp">
+      <div class="container">
+        <div class="row">
+        <div class="text-center col-sm-12 ">
+        <h3 class="cta-title">Twelve schools in which to pursue your passions</h3>
+        </div> 
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light">USICT</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light">USCT</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light">USBT</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
+        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
+        </div>
+        
+        
+      </div>
+    </section><!-- #call-to-action -->
 <!--------------------------------- Event Section End --------------------- -->
   
   <!----------
