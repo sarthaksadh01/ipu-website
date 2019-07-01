@@ -518,13 +518,17 @@ input[type=text] {
 /* Sections Header
 --------------------------------*/
 
-.section-header h3 {
+.section-header h3, .section-header-inv h3 {
   font-size: 36px;
   color: #413e66;
   text-align: center;
   font-weight: 700;
   position: relative;
   font-family: "Montserrat", sans-serif;
+}
+
+.section-header-inv h3{
+	color:#ffffff !important;
 }
 
 .section-header p {
@@ -710,7 +714,7 @@ body{
 }
 
 
-#admsn #admsn-list {
+#admsn #admsn-list, #university-schools #univ-list {
   padding: 0;
   list-style: none;
 }
@@ -727,13 +731,12 @@ body{
 	border-left-color: #1bb1dc;
 }
 
-#admsn #admsn-list a {
+#admsn #admsn-list a, #university-schools #univ-list a {
   margin-left: 15px;
   padding: 22px 0;
   display: block;
   position: relative;
   font-family: "Montserrat", sans-serif;
-  color: #0B2554 !important;
   font-size: 20px;
   line-height: 1;
   font-weight: 400;
@@ -743,12 +746,49 @@ body{
 
 
 #admsn #admsn-list a.title {
-  color: #000;
+  color: #0B2554;
 }
 #admsn #admsn-list a.title:hover {
   color: #1bb1dc !important;
 }
 
+
+/*-----------------------------University Schools CSS ------------------------------------*/
+
+#university-schools{
+  background: #2d2b46;
+/*    background: #041E54;*/
+  background-size: cover;
+  padding: 40px 0;
+}
+
+.title-inv{
+	color:#000;
+}
+
+.univ-list-item {
+	display: table;
+	position: relative;
+	margin: 0 auto;
+	height: 100%;
+	width: 70%;
+	background: #ffffff;
+	font-family: 'Literata', serif !important;
+	font-weight: 700;
+	padding: 20px;
+	padding-left:0px;
+	border-left: 46px solid #406fa8;
+	margin-top: 26px;
+/*	border-top: 1px solid #ebebeb;*/
+	transition: all .3s ease-in-out;
+
+}
+
+ .univ-list-item:hover {
+/*	border-left-width: 33px; */
+	color:#1bb1dc;
+	border-left-color: #1bb1dc;
+}
 
 
 
@@ -867,6 +907,7 @@ body{
 /*-----------------University Schools---------------------------------------------*/
 
 
+/*
 #university-schools{
   background: #2d2b46;
   background-size: cover;
@@ -892,7 +933,7 @@ body{
   padding: 8px 26px;
   border-radius: 3px;
   transition: 0.5s;
-  /* margin: 10px; */
+   margin: 10px; 
   border: 3px solid #fff;
   color: #fff;
 }
@@ -901,6 +942,7 @@ body{
   background: #1bb1dc;
   border: 3px solid #1bb1dc;
 }
+*/
 
 
 

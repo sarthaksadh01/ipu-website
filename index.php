@@ -13,6 +13,9 @@
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700"
     rel="stylesheet">
+	
+	<link href="https://fonts.googleapis.com/css?family=Literata:600,700&display=swap" rel="stylesheet">
+
 
   <!-- Bootstrap CSS File -->
   <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -309,12 +312,58 @@
             <div class="btn event-btn"> <a style="color:white" href="">VIEW MORE EVENTS</a></div>
         </div>
     </section>
+	
+	<!-- ---------------------------------- Events Section End ----------------------------- -->
+	
 
     <!--==========================
      University Schools
     ============================-->
     <section id="university-schools" class="wow fadeInUp">
       <div class="container">
+		<header class="section-header-inv">
+          <h3>University Schools</h3>
+        </header>
+		<ul id="univ-list">
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Information Communication & Technology</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Chemical Technology</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Biotechnology</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Management Studies</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Environment Studies</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Basic & Applied Sciences</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Humanities & Social Sciences</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Law and Legal Studies</a>	
+		</li>
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Education</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Architecture & Planning</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Medicine and Para-Medical Health Sciences</a>	
+		</li> 
+		<li class="univ-list-item">
+			<a class="title-inv" href="#"> University School of Mass Communication</a>	
+		</li> 
+		  
+		</ul>
+<!--
         <div class="row">
         <div class="text-center col-sm-12 ">
         <h3 class="cta-title">Twelve schools in which to pursue your passions</h3>
@@ -356,10 +405,10 @@
         <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
         </div>
         
-        
+		  </div> 
+-->
       </div>
     </section><!-- #call-to-action -->
-<!--------------------------------- Event Section End --------------------- -->
   
   <!----------
 
