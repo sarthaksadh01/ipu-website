@@ -13,8 +13,8 @@
   <link
     href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,500,600,700,700i|Montserrat:300,400,500,600,700"
     rel="stylesheet">
-	
-	<link href="https://fonts.googleapis.com/css?family=Literata:600,700&display=swap" rel="stylesheet">
+
+  <link href="https://fonts.googleapis.com/css?family=Literata:600,700&display=swap" rel="stylesheet">
 
 
   <!-- Bootstrap CSS File -->
@@ -221,195 +221,142 @@
 
 
   <section id="admsn">
-      <div class="container">
-        <header class="section-header">
-          <h3>Admissions 2019</h3>
-        </header>
+    <div class="container">
+      <header class="section-header">
+        <h3>Admissions 2019</h3>
+      </header>
 
-        <ul id="admsn-list" class="wow fadeInUp">
-          <li class="admsn-list-item">
-            <a  class="title" href="#">Online Counselling Website </a>
-          </li>
+      <ul id="admsn-list" class="wow fadeInUp">
+        <li class="admsn-list-item">
+          <a class="title" href="#">Online Counselling Website </a>
+        </li>
 
-          <li class="admsn-list-item">
-            <a  class="title" href="#">On-Line Counselling Notices </a>
-          </li>
-          <li class="admsn-list-item">
-            <a  class="title" href="#">Important notices </a>
-          </li>
-          <li class="admsn-list-item">
-            <a  class="title" href="#">Admission - 2019</a>
-          </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">On-Line Counselling Notices </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">Important notices </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">Admission - 2019</a>
+        </li>
 
-          <li class="admsn-list-item">
-            <a  class="title" href="#">A List of Institutes of various Programmes of academic session 2018-19 </a>
-          </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">A List of Institutes of various Programmes of academic session 2018-19 </a>
+        </li>
 
-          <li class="admsn-list-item">
-            <a  class="title" href="#">Notice regarding admissions to BA LLB & BBA LLB (Code 121, LLB) and LLM (Regular) (Code 112)  </a>
-          </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">Notice regarding admissions to BA LLB & BBA LLB (Code 121, LLB) and LLM (Regular)
+            (Code 112) </a>
+        </li>
 
-            
 
-        </ul>
 
-      </div>
-    </section><!-- #faq -->
-  
+      </ul>
+
+    </div>
+  </section><!-- #faq -->
+
   <!------------------------- Events Section ---------------------------------------------- -->
 
-    <section class='section' id='events'>
-        <!-- <header class='event-header'>
-            <h3 id='eventHeading'>EVENTS</h3>
-        </header> -->
-        <header class="m-5 section-header">
-        <h3>Events</h3>
-        
-      </header>
-        <div class="event-body container-fluid">
-            <div class="row event-row">
-                <div class="mb-3 col-lg-3 col-sm-6 wow bounceInUp">
-                    <div class="card shadowed">
-                        <div class='card-body'>
-                            <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
-                        </div>
-                        <div class="card-footer">
-                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
-                    <div class="card shadowed">
-                        <div class='card-body'>
-                            <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
-                        </div>
-                        <div class="card-footer">
-                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
-                    <div class="card shadowed">
-                        <div class='card-body'>
-                            <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</a>
-                        </div>
-                        <div class="card-footer">
-                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
-                    <div class="card shadowed">
-                        <div class='card-body'>
-                            <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </a>
-                        </div>
-                        <div class="card-footer">
-                            <p class="card-footer-text"> Date Added: 25-06-2019</p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="btn event-btn"> <a style="color:white" href="">VIEW MORE EVENTS</a></div>
-        </div>
-    </section>
-	
-	<!-- ---------------------------------- Events Section End ----------------------------- -->
-	
+  <section class='section' id='events'>
+    <header class="m-5 section-header">
+      <h3>Events</h3>
 
-    <!--==========================
+    </header>
+    <div class="event-body container-fluid">
+      <div class="row event-row">
+        <div class="mb-3 col-lg-3 col-sm-6 wow bounceInUp">
+          <div class="card shadowed">
+            <div class='card-body'>
+              <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua.</a>
+            </div>
+            <div class="card-footer">
+              <p class="card-footer-text"> Date Added: 25-06-2019</p>
+            </div>
+          </div>
+        </div>
+        <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
+          <div class="card shadowed">
+            <div class='card-body'>
+              <a href="#" class="card-text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua.</a>
+            </div>
+            <div class="card-footer">
+              <p class="card-footer-text"> Date Added: 25-06-2019</p>
+            </div>
+          </div>
+        </div>
+        <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
+          <div class="card shadowed">
+            <div class='card-body'>
+              <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua.</a>
+            </div>
+            <div class="card-footer">
+              <p class="card-footer-text"> Date Added: 25-06-2019</p>
+            </div>
+          </div>
+        </div>
+        <div class="mb-3 col-lg-3 col-sm-6  wow bounceInUp">
+          <div class="card shadowed">
+            <div class='card-body'>
+              <a href="#" class='card-text'> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. </a>
+            </div>
+            <div class="card-footer">
+              <p class="card-footer-text"> Date Added: 25-06-2019</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="btn event-btn"> <a style="color:white" href="">VIEW MORE EVENTS</a></div>
+    </div>
+  </section>
+
+  <!-- ---------------------------------- Events Section End ----------------------------- -->
+
+
+  <!--==========================
      University Schools
     ============================-->
-    <section id="university-schools" class="wow fadeInUp">
-      <div class="container">
-		<header class="section-header-inv">
-          <h3>University Schools</h3>
-        </header>
-		<ul id="univ-list">
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Information Communication & Technology</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Chemical Technology</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Biotechnology</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Management Studies</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Environment Studies</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Basic & Applied Sciences</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Humanities & Social Sciences</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Law and Legal Studies</a>	
-		</li>
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Education</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Architecture & Planning</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Medicine and Para-Medical Health Sciences</a>	
-		</li> 
-		<li class="univ-list-item">
-			<a class="title-inv" href="#"> University School of Mass Communication</a>	
-		</li> 
-		  
-		</ul>
-<!--
-        <div class="row">
-        <div class="text-center col-sm-12 ">
-        <h3 class="cta-title">Twelve schools in which to pursue your passions</h3>
-        </div> 
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light">USICT</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light">USCT</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light">USBT</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        <div class="text-center col-sm-4 col-md-3 col-lg-2 ">
-        <button type="button" class="mb-3 btn btn-outline-light"> USMS</button>
-        </div>
-        
-		  </div> 
--->
-      </div>
-    </section><!-- #call-to-action -->
-  
+  <section id="university-schools" class="wow fadeInUp">
+    <div class="container">
+      <header class="section-header-inv">
+        <h3>University Schools</h3>
+      </header>
+
+      <ul class="mb-3 list-group list-group-horizontal">
+        <li class="flex-fill list-group-item"> <a href="">University School of Information Communication &
+            Technology</a> </li>
+        <li class="flex-fill list-group-item"><a href="">University School of Chemical Technology</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Biotechnology</a></li>
+
+      </ul>
+      <ul class="mb-3 list-group list-group-horizontal">
+        <li class="flex-fill list-group-item"> <a href="">University School of Management Studies</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Environment Studies</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Basic & Applied Sciences</a></li>
+
+      </ul>
+      <ul class="mb-3 list-group list-group-horizontal">
+        <li class="flex-fill list-group-item"><a href="">University School of Humanities & Social Sciences</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Law and Legal Studies</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Education</a></li>
+
+      </ul>
+      <ul class="list-group list-group-horizontal">
+        <li class="flex-fill list-group-item"><a href="">University School of Architecture & Planning</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Medicine and Para-Medical Health
+            Sciences</a></li>
+        <li class="flex-fill list-group-item"><a href="">University School of Mass Communication</a></li>
+
+      </ul>
+
+    </div>
+  </section>
+
   <!----------
 
 Achievement section
@@ -435,25 +382,31 @@ Achievement section
             </ol>
             <div class="carousel-inner">
               <div class="carousel-item active">
-                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="First slide">
+                <img style="max-height: 530px" class="d-block w-100"
+                  src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                  alt="First slide">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Title</h5>
-                    <p>Description</p>
-                  </div>
+                  <h5>Title</h5>
+                  <p>Description</p>
+                </div>
               </div>
               <div class="carousel-item">
-                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Second slide">
+                <img style="max-height: 530px" class="d-block w-100"
+                  src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                  alt="Second slide">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Title</h5>
-                    <p>Description</p>
-                  </div>
+                  <h5>Title</h5>
+                  <p>Description</p>
+                </div>
               </div>
               <div class="carousel-item">
-                <img style="max-height: 530px" class="d-block w-100" src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" alt="Third slide">
+                <img style="max-height: 530px" class="d-block w-100"
+                  src="https://images.unsplash.com/photo-1535498730771-e735b998cd64?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80"
+                  alt="Third slide">
                 <div class="carousel-caption d-none d-md-block">
-                    <h5>Title</h5>
-                    <p>Description</p>
-                  </div>
+                  <h5>Title</h5>
+                  <p>Description</p>
+                </div>
               </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
@@ -483,7 +436,7 @@ Achievement section
                   <div class="student-info-content">
                     <h4>Title</h4>
                     <span>Description</span>
-                   
+
                   </div>
                 </div>
               </div>
@@ -493,7 +446,7 @@ Achievement section
                   <div class="student-info-content">
                     <h4>Title</h4>
                     <span>Description</span>
-                  
+
                   </div>
                 </div>
               </div>
@@ -507,7 +460,7 @@ Achievement section
                   <div class="student-info-content">
                     <h4>Title</h4>
                     <span>Description</span>
-                 
+
                   </div>
                 </div>
               </div>
@@ -517,7 +470,7 @@ Achievement section
                   <div class="student-info-content">
                     <h4>Title</h4>
                     <span>Description</span>
-                
+
                   </div>
                 </div>
               </div>

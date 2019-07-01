@@ -907,42 +907,19 @@ body{
 /*-----------------University Schools---------------------------------------------*/
 
 
-/*
-#university-schools{
-  background: #2d2b46;
-  background-size: cover;
-  padding: 40px 0;
+
+#university-schools a:hover{
+ 
+  color: white
+
 }
 
-#university-schools .cta-title {
-  color: #fff;
-  font-size: 28px;
-  font-weight: 700;
+#university-schools .list-group-item:hover{
+  background: #0a98c0;
+  color: white 
 }
 
-#university-schools .cta-text {
-  color: #fff;
-}
 
-#university-schools .cta-btn {
-  font-family: "Montserrat", sans-serif;
-  font-weight: 700;
-  font-size: 16px;
-  letter-spacing: 1px;
-  display: inline-block;
-  padding: 8px 26px;
-  border-radius: 3px;
-  transition: 0.5s;
-   margin: 10px; 
-  border: 3px solid #fff;
-  color: #fff;
-}
-
-#university-schools.cta-btn:hover {
-  background: #1bb1dc;
-  border: 3px solid #1bb1dc;
-}
-*/
 
 
 
