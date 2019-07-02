@@ -221,7 +221,7 @@
       <header class="section-header">
         <h3>Admissions 2019</h3>
       </header>
-
+<p> wololollolol</p>
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
           <a class="title" href="#">Online Counselling Website </a>
@@ -324,6 +324,8 @@
         <h3>University Schools</h3>
       </header>
       <div class="row">
+    <div class="container">
+		<div class="row">
       <div class="col ">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
@@ -368,6 +370,7 @@
         </li>
       </ul>
       </div>
+		</div>
     </div>
    </div>
   </section><!-- #faq -->
