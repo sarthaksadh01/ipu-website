@@ -181,7 +181,7 @@
               aria-label="Search"> -->
             <div class="autocomplete">
               <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry"
-                placeholder="Search links">
+                placeholder=" Search links">
             </div>
           </li>
 
@@ -319,7 +319,8 @@
 
     ============================-->
  <section id="admsn">
-    <div class="container row">
+    <div class="container ">
+      <div class="row">
       <div class="col ">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
@@ -365,6 +366,7 @@
       </ul>
       </div>
     </div>
+   </div>
   </section><!-- #faq -->
 
 
