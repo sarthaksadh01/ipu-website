@@ -320,7 +320,7 @@
     ============================-->
  <section id="admsn">
     <div class="container row">
-      <div class="col">
+      <div class="col mx-3">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
           <a class="title" href="#">University School of Information, Communication & Technology </a>
@@ -342,7 +342,7 @@
         </li>
       </ul>
       </div>
-       <div class="col">
+       <div class="col mx-3">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
           <a class="title" href="#">University School of Humanities & Social Sciences </a>
