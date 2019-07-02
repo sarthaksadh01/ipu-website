@@ -323,46 +323,44 @@
       <div class="col">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
-          <a class="title" href="#">Online Counselling Website </a>
+          <a class="title" href="#">University School of Information, Communication & Technology </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">On-Line Counselling Notices </a>
+          <a class="title" href="#">University School of Chemical Technology </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Important notices </a>
+          <a class="title" href="#">University School of Biotechnology </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Admission - 2019</a>
+          <a class="title" href="#">University School of Management Studies</a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">A List of Institutes of various Programmes of academic session 2018-19 </a>
+          <a class="title" href="#">University School of Environment Management</a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Notice regarding admissions to BA LLB & BBA LLB (Code 121, LLB) and LLM (Regular)
-            (Code 112) </a>
+          <a class="title" href="#">University School of Basic & Applied Sciences </a>
         </li>
       </ul>
       </div>
        <div class="col">
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
-          <a class="title" href="#">Online Counselling Website </a>
+          <a class="title" href="#">University School of Humanities & Social Sciences </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">On-Line Counselling Notices </a>
+          <a class="title" href="#">University School of Law and Legal Studies </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Important notices </a>
+          <a class="title" href="#">University School of Education </a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Admission - 2019</a>
+          <a class="title" href="#">University School of Architecture & Planing</a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">A List of Institutes of various Programmes of academic session 2018-19 </a>
+          <a class="title" href="#">University School of Medicine and Para-Medical Health Sciences</a>
         </li>
         <li class="admsn-list-item">
-          <a class="title" href="#">Notice regarding admissions to BA LLB & BBA LLB (Code 121, LLB) and LLM (Regular)
-            (Code 112) </a>
+          <a class="title" href="#">University School of Mass Communication</a>
         </li>
       </ul>
       </div>
