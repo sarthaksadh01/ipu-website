@@ -320,6 +320,9 @@
     ============================-->
  <section id="admsn">
     <div class="container ">
+      <header class="section-header">
+        <h3>University Schools</h3>
+      </header>
       <div class="row">
       <div class="col ">
       <ul id="admsn-list" class="wow fadeInUp">
