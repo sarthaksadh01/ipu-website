@@ -323,7 +323,7 @@
         <div class="row ">
           <div class="card shadowed">
             <div class='card-body'>
-              <marquee behavior="scroll" direction="up" scrollamount="3" style="height:400px;width: 500px;">
+              <marquee behavior="scroll" direction="up" scrollamount="3" style="height:400px;">
                 <ul >
                   <li><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019notices/adm2019NoticeMain.htm">Admission 2019 - Notice for candidates </a></li>   
                   <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/ntmbawkdm200519.PDF">Extension of date for online registration for MBA(Disaster Management) weekend Programme </a></li>   
