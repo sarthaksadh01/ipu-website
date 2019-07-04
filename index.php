@@ -47,7 +47,7 @@
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
         <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>
-        <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
+<!--         <a href="#header" class="scrollto"><img src="img/logo1.png" alt="" class="img-fluid"></a> -->
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
@@ -147,7 +147,7 @@
 
 
           </li>
-          <li class="drop-down"><a href="#">Events & Notices</a>
+          <li class="drop-down" id="last-item"><a href="#">Events & Notices</a>
 
 
             <ul>
@@ -221,7 +221,6 @@
       <header class="section-header">
         <h3>Admissions 2019</h3>
       </header>
-<p> wololollolol</p>
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
           <a class="title" href="#">Online Counselling Website </a>

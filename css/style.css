@@ -120,7 +120,7 @@ h6 {
 --------------------------------------------------------------*/
 
 #header {
-  height: 110px;
+  height: 100px;
   transition: all 0.5s;
   z-index: 997;
   transition: all 0.5s;
@@ -131,14 +131,17 @@ h6 {
   right: 0;
   transition: all 0.5s;
   z-index: 997;
- 
+  background-image: linear-gradient(to top, rgba(4,30,84,0), rgba(4,30,84,1)); 
+ 	
 }
 
 #header.header-scrolled,
 #header.header-pages {
   height: 70px;
+	background-image: none;
   padding: 15px 0;
-  background-color: #fff;
+/*  background-color: #041E54;*/
+	background-image: linear-gradient(to top, rgba(4,30,84,1), rgba(4,30,84,1)); 
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
@@ -159,14 +162,15 @@ h6 {
 
 #header .logo h1 a,
 #header .logo h1 a:hover {
-  color: #413e66;
+/*  color: #413e66;*/
+	color: white;
   text-decoration: none;
 }
 
 #header .logo img {
   padding: 0;
-  margin: 7px 0;
-  max-height: 26px;
+/*  margin: 2px 0;*/
+  max-height: 100px;
 }
 
 .main-pages {
@@ -190,7 +194,7 @@ h6 {
   width: 100%;
   height: 100vh;
   position: relative;
-  background: #f5f8fd url("../img/intro.jpg") center top no-repeat;
+  background: #f5f8fd url("../img/intro1update.jpg") center top no-repeat;
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
@@ -258,7 +262,8 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #413e66;
+/*  color: #413e66;*/
+	color:#fff;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 13px;
@@ -267,10 +272,12 @@ h6 {
   font-weight: 600;
 }
 
+
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
   color: #1bb1dc;
+/*	color: #413e66;	*/
   text-decoration: none;
 }
 
@@ -285,7 +292,7 @@ h6 {
   padding: 10px 0;
   background: #fff;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.25);
-  transition: ease all 0.3s;
+  transition: ease all 0.5s;
 }
 
 .main-nav .drop-down:hover > ul {
@@ -757,44 +764,6 @@ body{
 }
 #admsn #admsn-list a.title:hover {
   color: #1bb1dc !important;
-}
-
-
-/*-----------------------------University Schools CSS ------------------------------------*/
-
-#university-schools{
-  background: #2d2b46;
-/*    background: #041E54;*/
-  background-size: cover;
-  padding: 40px 0;
-}
-
-.title-inv{
-	color:#000;
-}
-
-.univ-list-item {
-	display: table;
-	position: relative;
-	margin: 0 auto;
-	height: 100%;
-	width: 70%;
-	background: #ffffff;
-	font-family: 'Literata', serif !important;
-	font-weight: 700;
-	padding: 20px;
-	padding-left:0px;
-	border-left: 46px solid #406fa8;
-	margin-top: 26px;
-/*	border-top: 1px solid #ebebeb;*/
-	transition: all .3s ease-in-out;
-
-}
-
- .univ-list-item:hover {
-/*	border-left-width: 33px; */
-	color:#1bb1dc;
-	border-left-color: #1bb1dc;
 }
 
 
