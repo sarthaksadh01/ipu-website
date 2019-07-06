@@ -46,8 +46,8 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>
-<!--         <a href="#header" class="scrollto"><img src="img/logo1.png" alt="" class="img-fluid"></a> -->
+<!--        <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>-->
+         <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> 
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
@@ -78,7 +78,7 @@
 
 
           </li>
-          <li class="drop-down "><a href="#">Examination</a>
+          <li class="drop-down "><a class="drop-down-link"href="#">Examination</a>
 
             <ul>
 
