@@ -46,8 +46,8 @@
 
       <div class="logo float-left">
         <!-- Uncomment below if you prefer to use an image logo -->
-        <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>
-        <!-- <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> -->
+<!--        <h1 class="text-light"><a href="#" class="scrollto"><span>GGSIPU</span></a></h1>-->
+         <a href="#header" class="scrollto"><img src="img/logo.png" alt="" class="img-fluid"></a> 
       </div>
 
       <nav class="main-nav float-right d-none d-lg-block">
@@ -78,7 +78,7 @@
 
 
           </li>
-          <li class="drop-down "><a href="#">Examination</a>
+          <li class="drop-down "><a class="drop-down-link"href="#">Examination</a>
 
             <ul>
 
@@ -147,7 +147,7 @@
 
 
           </li>
-          <li class="drop-down"><a href="#">Events & Notices</a>
+          <li class="drop-down" id="last-item"><a href="#">Events & Notices</a>
 
 
             <ul>
@@ -181,7 +181,7 @@
               aria-label="Search"> -->
             <div class="autocomplete">
               <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry"
-                placeholder="Search links">
+                placeholder=" Search links">
             </div>
           </li>
 
@@ -221,7 +221,6 @@
       <header class="section-header">
         <h3>Admissions 2019</h3>
       </header>
-
       <ul id="admsn-list" class="wow fadeInUp">
         <li class="admsn-list-item">
           <a class="title" href="#">Online Counselling Website </a>
@@ -313,45 +312,136 @@
 
   <!-- ---------------------------------- Events Section End ----------------------------- -->
 
+  <!-- ---------------------------------- Alert Section Start ----------------------------- -->
+  <section id="admsn">
+    <div class="container"  >
+    
+      <div class="event-body container-fluid" style="align:center;">
+        <div class="row ">
+            <div class="col">
+                <header class="section-header">
+        <h3>Alerts</h3>
+      </header>
+          <div class="card shadowed">
+            <div class='card-body'>
+              <marquee behavior="scroll" direction="up" scrollamount="3" style="height:400px;">
+                <ul >
+                  <li><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019notices/adm2019NoticeMain.htm">Admission 2019 - Notice for candidates </a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/ntmbawkdm200519.PDF">Extension of date for online registration for MBA(Disaster Management) weekend Programme </a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019notices/adm2019CETresultsmain.htm">CET 2019 Results </a>></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019main.htm">Visit Admission 2019 for Important Notice regarding Change in CET 2019 Schedule</a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="http://ggsipu.ac.in/ipuaffiliation/Login.aspx">Apply Online for Grant / Continuation of Provisional Affiliation</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="https://in.mathworks.com/academia/tah-portal/guru-gobind-singh-indraprastha-university-40781459.html">Register / Download MATLAB, Simulink and several add-on products for use by faculty, academic researchers and students </a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/ntcourt281118.pdf">Interim directions of the Hon'ble High Court of Delhi regarding Examination of Nov./Dec. 2018</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="https://payments.billdesk.com/bdcollect/pay?p1=137&amp;p2=14">Annual Fee Payment for 2018-19</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/sports.php">Sports Activities</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/nssvdrv220318.pdf">NSS Volunteers Enrolment drive</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/enrol160418.pdf">NSS Teaching &amp; Non-Teaching Enrollment Drive</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/cancellation_admission.php">Cancellation of Admission / Re-admission</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/careers.php">Jobs &amp; Opportunities</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/nirfmain.php">National Institutional Ranking Framework</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/admission2016/phd2016/guidelines.pdf">Faculty Research Grant Scheme</a></li> 
+                </ul>
+              </marquee>
+            </div>
+          </div>
+        </div>
+               <div class="col">
+                    <header class="section-header">
+        <h3>Results</h3>
+      </header>
+          <div class="card shadowed">
+            <div class='card-body'>
+              <marquee behavior="scroll" direction="up" scrollamount="3" style="height:400px;">
+                <ul >
+                  <li><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019notices/adm2019NoticeMain.htm">Admission 2019 - Notice for candidates </a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/ntmbawkdm200519.PDF">Extension of date for online registration for MBA(Disaster Management) weekend Programme </a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019notices/adm2019CETresultsmain.htm">CET 2019 Results </a>></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/Pubinfo2019/Admission2019mian/adm2019main.htm">Visit Admission 2019 for Important Notice regarding Change in CET 2019 Schedule</a></li>   
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="http://ggsipu.ac.in/ipuaffiliation/Login.aspx">Apply Online for Grant / Continuation of Provisional Affiliation</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="https://in.mathworks.com/academia/tah-portal/guru-gobind-singh-indraprastha-university-40781459.html">Register / Download MATLAB, Simulink and several add-on products for use by faculty, academic researchers and students </a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/ntcourt281118.pdf">Interim directions of the Hon'ble High Court of Delhi regarding Examination of Nov./Dec. 2018</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="https://payments.billdesk.com/bdcollect/pay?p1=137&amp;p2=14">Annual Fee Payment for 2018-19</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/sports.php">Sports Activities</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/nssvdrv220318.pdf">NSS Volunteers Enrolment drive</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/pubinfo/enrol160418.pdf">NSS Teaching &amp; Non-Teaching Enrollment Drive</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/cancellation_admission.php">Cancellation of Admission / Re-admission</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/careers.php">Jobs &amp; Opportunities</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/nirfmain.php">National Institutional Ranking Framework</a></li> 
+                  <li ><a style="font-size: 14px;color: #0955A0;" href="/admission2016/phd2016/guidelines.pdf">Faculty Research Grant Scheme</a></li> 
+                </ul>
+              </marquee>
+            </div>
+          </div>
+        </div>
+          </div>
+      </div>
+    </div>
+  </section>
+<!-- ---------------------------------- Alert Section End ----------------------------- -->
+
 
   <!--==========================
      University Schools
+
     ============================-->
-  <section id="university-schools" class="wow fadeInUp">
-    <div class="container">
-      <header class="section-header-inv">
+ <section id="admsn">
+    <div class="container ">
+      <header class="section-header">
         <h3>University Schools</h3>
       </header>
-
-      <ul class="mb-3 list-group list-group-horizontal">
-        <li class="flex-fill list-group-item"> <a href="">University School of Information Communication &
-            Technology</a> </li>
-        <li class="flex-fill list-group-item"><a href="">University School of Chemical Technology</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Biotechnology</a></li>
-
+      <div class="row">
+    <div class="container">
+		<div class="row">
+      <div class="col ">
+      <ul id="admsn-list" class="wow fadeInUp">
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Information, Communication & Technology </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Chemical Technology </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Biotechnology </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Management Studies</a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Environment Management</a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Basic & Applied Sciences </a>
+        </li>
       </ul>
-      <ul class="mb-3 list-group list-group-horizontal">
-        <li class="flex-fill list-group-item"> <a href="">University School of Management Studies</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Environment Studies</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Basic & Applied Sciences</a></li>
-
+      </div>
+       <div class="col">
+      <ul id="admsn-list" class="wow fadeInUp">
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Humanities & Social Sciences </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Law and Legal Studies </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Education </a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Architecture & Planing</a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Medicine and Para-Medical Health Sciences</a>
+        </li>
+        <li class="admsn-list-item">
+          <a class="title" href="#">University School of Mass Communication</a>
+        </li>
       </ul>
-      <ul class="mb-3 list-group list-group-horizontal">
-        <li class="flex-fill list-group-item"><a href="">University School of Humanities & Social Sciences</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Law and Legal Studies</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Education</a></li>
-
-      </ul>
-      <ul class="list-group list-group-horizontal">
-        <li class="flex-fill list-group-item"><a href="">University School of Architecture & Planning</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Medicine and Para-Medical Health
-            Sciences</a></li>
-        <li class="flex-fill list-group-item"><a href="">University School of Mass Communication</a></li>
-
-      </ul>
-
+      </div>
+		</div>
     </div>
-  </section>
+   </div>
+  </section><!-- #faq -->
+
 
   <!----------
 
