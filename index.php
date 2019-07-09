@@ -180,7 +180,7 @@
             <!-- <input id="search_links" class="form-control mr-sm-2" type="search" placeholder="    Search links"
               aria-label="Search"> -->
             <div class="autocomplete">
-              <input class="form-control mr-sm-2" id="search_links" type="text" name="myCountry"
+              <input class="text-center form-control mr-sm-2" id="search_links" type="text" name="myCountry"
                 placeholder=" Search links">
             </div>
           </li>
@@ -385,7 +385,7 @@
      University Schools
 
     ============================-->
- <section id="admsn">
+ <section id="uni">
     <div class="container ">
       <header class="section-header">
         <h3>University Schools</h3>

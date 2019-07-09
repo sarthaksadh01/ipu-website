@@ -487,10 +487,13 @@ input[type=text] {
   border-bottom: none;
   border-top: none;
   z-index: 99;
-  /*position the autocomplete items to be the same width as the container:*/
   top: 100%;
   left: 0;
   right: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap; 
+
 }
 
 .autocomplete-items div {
@@ -568,6 +571,10 @@ input[type=text] {
 Achievemet section-
 
 -----------------*/
+#achievements{
+  background-color: #F5F8FD;
+
+}
 
 
 #achievements .student {
@@ -724,6 +731,7 @@ body{
 /*----------------------------- Admission Section CSS----------------------------------------*/
 
 #admsn {
+  background-color: #F5F8FD;
   padding: 60px 0;
   
 /*   overflow: hidden; */
@@ -886,23 +894,50 @@ body{
 /*-----------------University Schools---------------------------------------------*/
 
 
-#university-schools{
-  background-size: cover;
-  background-attachment: fixed;
-  background-position: center;
-  background-repeat: no-repeat;
+#uni {
+  /* background-color: #F5F8FD; */
+  padding: 60px 0;
+  
+/*   overflow: hidden; */
 }
 
 
-#university-schools a:hover{
- 
-  color: white
+#uni #admsn-list, #university-schools #univ-list {
+  padding: 0;
+  list-style: none;
+}
+
+.admsn-list-item {	
+	border-left: 6px solid #0B2554;
+	border-top: 1px solid #ebebeb;
+	transition: all .3s ease-in-out;
 
 }
 
-#university-schools .list-group-item:hover{
-  background: #0a98c0;
-  color: white 
+ .admsn-list-item:hover  {
+	border-left-width: 33px; 
+	border-left-color: #1bb1dc;
+}
+
+#uni #admsn-list a, #university-schools #univ-list a {
+  margin-left: 15px;
+  padding: 22px 0;
+  display: block;
+  position: relative;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  line-height: 1;
+  font-weight: 400;
+  padding-right: 20px;
+}
+
+
+
+#uni #admsn-list a.title {
+  color: #0B2554;
+}
+#uni #admsn-list a.title:hover {
+  color: #1bb1dc !important;
 }
 
 
